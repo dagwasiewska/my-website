@@ -2,7 +2,7 @@ import React from "react"
 // import photo from '../../public/img/photo.jpeg'
 
 const AAWork = () => {
-  const photo = "/img/photo.jpeg"
+  const photo = "/my-website/img/photo.jpeg"
   return (
     <div name="work" className="w-full md:h-screen text-gray-300 bg-[#0a192f]">
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">

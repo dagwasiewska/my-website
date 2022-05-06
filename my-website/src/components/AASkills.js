@@ -2,12 +2,13 @@ import React from "react"
 
 
 const AASkills = () => {
-  const html = '/img/html.png'
-  const css = "/img/css.png"
-  const javascript = "/img/javascript.png"
-  const react = "/img/react.png"
-  const node = "/img/node.png"
-  const photo = "/img/photo.jpeg"
+  const html = '/my-website/img/html.png'
+  const css = "/my-website/img/css.png"
+  const javascript = "/my-website/img/javascript.png"
+  const react = "/my-website/img/react.png"
+  const node = "/my-website/img/node.png"
+  const photo = "/my-website/img/photo.jpeg"
+  
 
   return (
     <div name="skills" className="w-full h-screen bg-[#0a192f] text-gray-300">

@@ -1,7 +1,6 @@
 import React from "react"
 
 const A = () => {
-  const photo = "img/photo.jpeg"
   return (
     <div name="about" className="w-full h-screen bg-[#0a192f] text-gray-300">
       <div className="flex flex-col justify-center items-center w-full h-full">
@@ -13,10 +12,10 @@ const A = () => {
           </div>
           <div></div>
         </div>
-        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
+        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4 pb-96">
           <div className="sm:text-right text-4xl font-bold">
             {/* <p>Hi. I'm Dagmara, nice to meet you. Please take a look around.</p> */}
-            <img className="rounded-full " src="img/photo.jpeg" />
+            <img className="rounded-full " src="/my-website/img/photo.jpeg" />
           </div>
           <div>
             <p className="mt-28">
