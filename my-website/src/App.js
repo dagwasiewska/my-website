@@ -27,8 +27,8 @@ function App() {
       {/* <Main /> */}
       <AAHome />
       <A />
-      <AAWork />
       <AASkills />
+      <AAWork />
       <AAContact />
       {/* <div className="App bg-orange-50"></div> */}
       {/* <About /> */}
