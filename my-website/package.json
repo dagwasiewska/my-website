@@ -15,9 +15,12 @@
     "gsap": "^3.10.4",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
+    "react-icons": "^4.3.1",
     "react-scripts": "5.0.0",
+    "react-scroll": "^1.8.7",
     "sass": "^1.51.0",
-    "scrollmagic-plugin-gsap": "^1.0.4"
+    "scrollmagic-plugin-gsap": "^1.0.4",
+    "tw-elements": "^1.0.0-alpha12"
   },
   "scripts": {
     "start": "react-scripts start",
