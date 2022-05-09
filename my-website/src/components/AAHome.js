@@ -11,7 +11,7 @@ const AAHome = ({ nav }) => {
         </h1> */}
 
         {/* <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>
-          I'm a Front End Developer.
+          I am a Front End Developer.
         </h2> */}
 
         {!nav && (
@@ -128,9 +128,9 @@ const AAHome = ({ nav }) => {
           </>
         )}
         <p className="text-[#8892b0] py-8 mr-32 max-w-[700px]">
-          I’m a developer specializing in building (and occasionally designing)
+          I am a web developer specializing in building and designing
           exceptional digital experiences. Currently, I’m focused on building
-          responsive full-stack? web applications.
+          responsive full-stack web applications.
         </p>
       </div>
     </div>
