@@ -28,8 +28,8 @@ const AAWork = () => {
               title="W3Schools Free Online Web Tutorials"
             ></iframe>
             <div className="py-4 text-center">
-              <a href="https://dagwasiewska.github.io/spa-website/" className="font-roboto text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">LIVE</a>
-              <a href="https://github.com/dagwasiewska/spa-website" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">CODE</a>
+              <a href="https://dagwasiewska.github.io/spa-website/" className="font-roboto text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">Live</a>
+              <a href="https://github.com/dagwasiewska/spa-website" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">Code</a>
               {/* <p class="text-gray-700 text-base">LINK</p> */}
             </div>
           </div>
@@ -40,8 +40,8 @@ const AAWork = () => {
               title="W3Schools Free Online Web Tutorials"
             ></iframe>
             <div className="py-4 text-center">
-              <a href="https://dagwasiewska.github.io/website-sass/" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">LIVE</a>
-              <a href="https://github.com/dagwasiewska/website-sass" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">CODE</a>
+              <a href="https://dagwasiewska.github.io/website-sass/" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">Live</a>
+              <a href="https://github.com/dagwasiewska/website-sass" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">Code</a>
               {/* <p class="text-gray-700 text-base">LINK</p> */}
             </div>
           </div>
@@ -52,8 +52,20 @@ const AAWork = () => {
               title="W3Schools Free Online Web Tutorials"
             ></iframe>
             <div className="py-4 text-center">
-              <a href="https://dagwasiewska.github.io/landing-page/" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">LIVE</a>
-              <a href="https://github.com/dagwasiewska/landing-page" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">CODE</a>
+              <a href="https://dagwasiewska.github.io/landing-page/" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">Live</a>
+              <a href="https://github.com/dagwasiewska/landing-page" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">Code</a>
+              {/* <p class="text-gray-700 text-base">LINK</p> */}
+            </div>
+          </div>
+          <div className="max-w-sm rounded overflow-hidden shadow-lg">
+            <iframe
+              className="w-full h-48"
+              src="https://web-agency-v1.netlify.app/"
+              title="W3Schools Free Online Web Tutorials"
+            ></iframe>
+            <div className="py-4 text-center">
+              <a href="https://dagwasiewska.github.io/landing-page/" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">Live</a>
+              <a href="https://github.com/dagwasiewska/landing-page" className="text-white border-2 hover:bg-pink-600 transition duration-150 ease-out hover:ease-in hover:border-pink-600 items-center mx-auto px-4 mx-2 inline-block inline-grid font-bold text-xl mb-2">Code</a>
               {/* <p class="text-gray-700 text-base">LINK</p> */}
             </div>
           </div>
